@@ -31,7 +31,7 @@ export default tseslint.config(
             "max-len": [
                 "error",
                 {
-                    code: 120,
+                    code: 80,
                 },
             ],
             curly: ["error", "multi-or-nest"],
